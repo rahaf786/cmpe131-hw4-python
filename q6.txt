@@ -1,0 +1,3 @@
+1.) The change inside increment_int_a does not change the variable a after the function call
+2.) The change inside increment_int_b does change the variable b after the function call
+3.) They differ because the numbers are fixed and dictionaries can be chnaged 

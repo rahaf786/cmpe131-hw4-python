@@ -1,0 +1,1 @@
+The two uses of inheritance in a program are that it can use the parent class to prevent repetition in code as well make it possible for the code to be used in more than one subclass.
